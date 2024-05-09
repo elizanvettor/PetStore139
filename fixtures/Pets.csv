@@ -1,0 +1,3 @@
+petId, categoryId,categoryName,petName,photoUrls,tagsIds,tagsName,status
+3269347,1,cat,Serafina,,1;2,vacinada;castrada,available
+3269348,2,dog,Macale,,1;3,vacinado;vermifugado,available
